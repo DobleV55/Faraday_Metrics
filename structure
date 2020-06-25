@@ -1,0 +1,16 @@
+stats
+    Github
+        Per Repo //faradaysec faraday-plugins faraday-agent-dispatcher faraday_burp faraday_zap
+            Stars
+            Clone
+            Downloads
+                Total Amount
+                Per Release            
+            Visitors
+                View
+                Unique Visitors
+    Pypi
+        Per Package //faradaysec faraday-plugins faraday-agent-dispatcher
+            Per Day
+            Per Week
+            Per Month
