@@ -1,16 +1,17 @@
 stats
     Github
-        Per Repo //faradaysec faraday-plugins faraday-agent-dispatcher faraday_burp faraday_zap
-            Stars
-            Clone
-            Downloads
-                Total Amount
-                Per Release            
+        Per Repo // faraday faraday-plugins faraday-agent-dispatcher faraday_burp faraday_zap
+            Stars // Done!
+            Clone 
             Visitors
                 View
                 Unique Visitors
+            Downloads // Solo para repo faraday
+                Total Amount // Done!
+                Per Release // Done!
+                Per Asset // Done!  
     Pypi
         Per Package //faradaysec faraday-plugins faraday-agent-dispatcher
-            Per Day
-            Per Week
-            Per Month
+            Per Day // Done! 
+            Per Week // Done! 
+            Per Month // Done! 
